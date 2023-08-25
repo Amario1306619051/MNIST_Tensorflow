@@ -1,6 +1,8 @@
 # MNIST Digit Recognition using TensorFlow
 
 ![MNIST](./download.png)
+
+<br>
 This repository demonstrates the implementation of a digit recognition model using the MNIST dataset and TensorFlow. The goal of this project is to build and train a deep neural network that can accurately classify handwritten digits.
 
 ## Dataset
